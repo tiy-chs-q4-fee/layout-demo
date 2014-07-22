@@ -5,6 +5,14 @@ header {
   position:relative;
   background-color: teal;
 }
+.textSize {
+  font-size:20px;
+}
+.leftColumn {
+  display:inline-block;
+  vertical-aligm
+}
+.rightColumn {}
 header nav {
   position:absolute;
   bottom:10px;
