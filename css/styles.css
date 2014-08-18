@@ -1,3 +1,37 @@
+.boxes {
+  width:100%;
+}
+.boxes div {
+  display:inline-block;
+  vertical-align: top;
+  background: red;
+  width:24%;
+
+}
+.imgClass {
+  display:block;
+  width:150px;
+  margin: 0 0 0 50%;
+}
+
+h1 {
+  text-align: center;
+  width:300px;
+  margin:0 auto;
+}
+
+.animal {
+  position:relative;
+  right:5px;
+}
+.post {
+  position:fixed;
+
+}
+
+/*  */
+
+
 header {
   display:block;
   width:100%;
@@ -50,6 +84,13 @@ nav li:hover {
   clear:both;
   width:100%;
   position:relative;
+}
+
+.testClass {
+  position:absolute;
+  top:30px;
+  left:450px;
+  margin-top:45px;
 }
 
 section {

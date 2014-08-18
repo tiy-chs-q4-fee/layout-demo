@@ -1,0 +1,21 @@
+.container {
+  background-color: grey;
+  width: 100%;
+  clear:both;
+
+}
+.leftColumn, .rightColumn {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.leftColumn {
+  background-color: green;
+  width: 65%;
+}
+
+.rightColumn {
+  background-color: red;
+  width: 30%;
+
+}
